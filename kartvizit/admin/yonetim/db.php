@@ -1,9 +1,9 @@
 <?php
 
 $host = "localhost"; // Sunucu adresi
-$dbname = "haleyumu_kartvizit"; // Database adı
-$username = "haleyumu_kartvizituser"; // Database kullanıcı adı
-$password = "01adana01"; // Database şifre
+$dbname = ""; // Database adı
+$username = ""; // Database kullanıcı adı
+$password = ""; // Database şifre
 
 try {
 
