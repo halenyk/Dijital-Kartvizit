@@ -31,8 +31,5 @@ Bu proje, kişisel bilgilerinizi modern ve erişilebilir bir dijital kartvizit o
 
 ---
 
-## 📷 Ekran Görüntüsü
-
-![image](https://github.com/user-attachments/assets/7a7ccec6-d324-4235-a6e6-d2fb27e3e80e)
 
 
