@@ -23,13 +23,5 @@ Bu proje, kişisel bilgilerinizi modern ve erişilebilir bir dijital kartvizit o
 
 ---
 
-## 🔗 Canlı Demo
-
-👉 https://kartvizit.haleyumuk.com/
-
-> Not: Demo bağlantısı sunucu aktifliğine göre değişebilir.
-
----
-
 
 
